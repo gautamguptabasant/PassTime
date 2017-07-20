@@ -1,1 +1,1 @@
-print 'hello %d' % 1000
+print 'hello %d' % 10000
